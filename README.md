@@ -99,7 +99,3 @@ The framework was evaluated on both Heart Disease and Bladder Cancer datasets. P
 * Kaviya Sri N
 * Lakshmi Prabha T
 
-## Guide
-
-Dr. Aarthee S
-Assistant Professor-I/SOC
